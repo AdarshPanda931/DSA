@@ -2,7 +2,7 @@
 
 ## C++ practice 
 
-### CONTENTS:
+### CONTENTS :
 
 PART 1- Basic data structure and algorithm :-
 
