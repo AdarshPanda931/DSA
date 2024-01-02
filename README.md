@@ -20,3 +20,4 @@ PART 1- Basic data structure and algorithm :-
 
 5.1-[remove duplicates without using extra auxiliary space](5.1.remove_duplicates_without_using_extra_auxilary_space.cpp)
 
+6.1.[print_N_to_1_using_recurssion.cpp](6.1.print_N_to_1_using_recurssion.cpp)
