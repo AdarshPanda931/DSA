@@ -1,4 +1,4 @@
-# DSA :----
+# DSA :-
 
 ## C++ practice :-
 
