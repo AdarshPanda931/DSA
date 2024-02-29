@@ -1,6 +1,6 @@
 # DSA :
 
-## C++ practice :-
+## C++ practice :
 
 ### CONTENTS :-
 
