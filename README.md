@@ -1,8 +1,8 @@
-# DSA :
+# DSA :-
 
-## C++ practice :
+## C++ practice :-
 
-### CONTENTS :
+### CONTENTS :-
 
 PART 1- Basic data structure and algorithm :-
 
